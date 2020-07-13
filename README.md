@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Checkout my:
+* [Website](https://clstb.codes)
+* [Blog](https://clstb.codes/blog)
+* [LinkedIn](https://de.linkedin.com/in/claas-st%c3%b6rtenbecker-119912197)
+
+Currently working on algorithm theory, stay tuned for blog posts!
+
 <!--
 **clstb/clstb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
