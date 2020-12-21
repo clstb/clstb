@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-Checkout my:
-* [Website](https://clstb.codes)
-* [Blog](https://clstb.codes/blog)
-* [LinkedIn](https://de.linkedin.com/in/claas-st%c3%b6rtenbecker-119912197)
+Checkout my [Blog](https://clstb.codes/blog). Contact via email.
+
+Passed algorithm theory class, now working on:
+* Logic
+* Scientific Computing
+* Fundamentals of AI
+* Distributed Systems (OpenStack)
 
 Currently working on algorithm theory, stay tuned for blog posts!
 
