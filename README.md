@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Checkout my [Blog](https://clstb.codes/blog). Contact via email.
+Checkout my [Blog](https://clstb.codes). Contact via email.
 
 Passed algorithm theory class, now working on:
 * Logic
