@@ -2,12 +2,6 @@
 
 Checkout my [Blog](https://clstb.codes). Contact via email.
 
-Passed algorithm theory class, now working on:
-* Logic
-* Scientific Computing
-* Fundamentals of AI
-* Distributed Systems (OpenStack)
-
 <!--
 **clstb/clstb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
