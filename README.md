@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Checkout my [Blog](https://clstb.codes). Contact via email.
+Checkout my [Blog](https://clstb.sh). Contact via email.
 
 <!--
 **clstb/clstb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
